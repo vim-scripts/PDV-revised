@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2587
+
+originally the 2005 PDV phpDocumentor for VIM tool (http://www.vim.org/scripts/script.php?script_id=1355)
+
+- fixed bugs w/ parameters not finding booleans
+- added folding marker comment functionality
+
